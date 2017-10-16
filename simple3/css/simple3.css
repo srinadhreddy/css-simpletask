@@ -1,0 +1,20 @@
+.simple3{
+      
+         border:1px solid black;
+		 width:500px;
+		 height:100px;
+		 padding:20px ;
+}
+		 
+		 
+   p::first-line {
+		  
+    color: blue;
+   }
+	
+ p::first-letter {
+		  
+    color: red;
+	font-size:30px;
+ }
+ 
